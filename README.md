@@ -9,7 +9,7 @@ We worked together to understand how real-world online stores function—from pr
 
 ## 👥 Team
 
-- Developed by **Theo** and a friend  
+- Developed by **Theophilus** and **Michael Hadiwijaya Sudargo**
 - Team effort during our Computer Science Bachelor's journey
 
 ---
